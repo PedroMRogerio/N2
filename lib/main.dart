@@ -97,7 +97,7 @@ Estado: ${data['uf']}
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Pedro Moraes Rogério - 27/11/2024"),
+        title: const Text("Consulta de CEP - Pedro Moraes - 27/11/2024"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
